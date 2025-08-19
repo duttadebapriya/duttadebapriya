@@ -1,10 +1,7 @@
-## Hi there 👋
-
 <!--
 **duttadebapriya/duttadebapriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +11,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi 👋, I'm Debapriya
+🚀 Software Developer | 🎓 Last year Engineering Student  
+Passionate about Web Development, DSA & Problem Solving
+![Debapriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=debapriya-dutta&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=debapriya-dutta&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debapriya-dutta&layout=compact&theme=radical)
