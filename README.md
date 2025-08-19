@@ -24,4 +24,4 @@ Passionate about Web Development, DSA & Problem Solving
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/debapriya-dutta-3912ab247/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/u/debapriya_dutta/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel)](https://www.naukri.com/code360/profile/debapriya_d)
+[![Coding Ninjas](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel)](https://www.naukri.com/code360/profile/debapriya_d)
