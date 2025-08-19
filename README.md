@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## Hi 👋, I'm Debapriya
 🚀 Software Developer | 🎓 Last year Engineering Student  
 Passionate about Web Development, DSA & Problem Solving
-![Debapriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=debapriya-dutta&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=debapriya-dutta&theme=radical)
+![Debapriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=duttadebapriya&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=duttadebapriya&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=debapriya-dutta&layout=compact&theme=radical)
